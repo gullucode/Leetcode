@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gullucode/Leetcode/tree/master/0169-majority-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gullucode/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,8 +26,13 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gullucode/Leetcode/tree/master/0169-majority-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gullucode/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gullucode/Leetcode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gullucode/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
