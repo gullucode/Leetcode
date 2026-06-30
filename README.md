@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gullucode/Leetcode/tree/master/0169-majority-element) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/gullucode/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,9 +42,14 @@
 ## String
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/gullucode/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gullucode/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/gullucode/Leetcode/tree/master/0016-3sum-closest) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/gullucode/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
